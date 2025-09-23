@@ -1,8 +1,6 @@
 ---
-title: your brand extension
+title: The University of Arizona brand.yml
 ---
-
-# brand.yml extension
 
 ## Text
 
@@ -17,7 +15,6 @@ Here is some inline code: `def foo(x): return x`{.python} and `y`{.python} and `
 Here is a code block:
 
 ```{.r}
-# | echo: true
 fibonacci <- function(n) {
   if (n <= 0) {
     return(NULL)

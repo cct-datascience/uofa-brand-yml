@@ -1,13 +1,15 @@
 # U-of-az Extension For Quarto
 
-_TODO_: Add a short description of your extension.
+A [brand.yml](https://posit-dev.github.io/brand-yml/) Quarto extension to implement some of the [University of Arizona brand guidelines](https://marcom.arizona.edu).
+
+Note: this is **unofficial** and not released by marketing & communications!
 
 ## Installing
 
 _TODO_: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
-quarto add <github-organization>/u-of-az
+quarto add cct-datascience/uofa-brand-yaml
 ```
 
 This will install the extension under the `_extensions` subdirectory.
@@ -15,7 +17,7 @@ If you're using version control, you will want to check in this directory.
 
 ## Using
 
-This extension installs a [brand.yml](https://posit-dev.github.io/brand-yml/) configuration for _your organization name_.
+This extension installs a [brand.yml](https://posit-dev.github.io/brand-yml/) configuration for The University of Arizona.
 
 ## Example
 
