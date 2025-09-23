@@ -6,8 +6,6 @@ Note: this is **unofficial** and not released by marketing & communications!
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
 quarto add cct-datascience/uofa-brand-yaml
 ```
